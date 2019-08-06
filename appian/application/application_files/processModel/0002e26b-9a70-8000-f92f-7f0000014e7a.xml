@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <processModelHaul>
   <versionUuid>0001e26b-9c35-8000-f92f-7f0000014e7a</versionUuid>
   <folderUuid>_g-0000e263-9e1d-8000-f92f-7f0000014e7a_1245</folderUuid>
@@ -30,10 +30,7 @@
       <groups/>
     </role>
   </roleMap>
-  <process_model_port schemaVersion="007.000.004"
-    xmlns="http://www.appian.com/ae/types/2009"
-    xmlns:a="http://www.appian.com/ae/types/2009"
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <process_model_port xmlns="http://www.appian.com/ae/types/2009" xmlns:a="http://www.appian.com/ae/types/2009" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="007.000.004">
     <pm>
       <meta>
         <uuid><![CDATA[0002e26b-9a70-8000-f92f-7f0000014e7a]]></uuid>
@@ -496,8 +493,7 @@
             <acps/>
             <custom-params>
               <acp name="pendingActions">
-                <a:value xmlns:n1="urn:com:macedon:types:gma"
-                  xsi:nil="true" xsi:type="n1:GMA_GroupMemberAction?list"/>
+                <a:value xmlns:n1="urn:com:macedon:types:gma" xsi:nil="true" xsi:type="n1:GMA_GroupMemberAction?list"/>
                 <a:local-id/>
                 <a:expr><![CDATA[=pv!groupMemberActions]]></a:expr>
                 <a:required>0</a:required>
@@ -591,8 +587,7 @@
               <name><![CDATA[Timer_1]]></name>
               <desc/>
               <rules/>
-              <schedule absoluteDelay="false"
-                isAbsoluteOrRelative="true" isRecurring="false">
+              <schedule absoluteDelay="false" isAbsoluteOrRelative="true" isRecurring="false">
                 <interval>
                   <hours>1</hours>
                 </interval>
@@ -691,4 +686,4 @@
   <history>
     <historyInfo versionUuid="0001e26b-9c35-8000-f92f-7f0000014e7a"/>
   </history>
-</processModelHaul>
+</processModelHaul><!--updated on 2019-08-06T16:05:51.949-->
