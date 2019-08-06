@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<groupHaul xmlns:a="http://www.appian.com/ae/types/2009">
+<?xml version="1.0" encoding="UTF-8"?><groupHaul xmlns:a="http://www.appian.com/ae/types/2009">
     <versionUuid>_e-0000e263-9e1d-8000-9aee-01075c01075c_11939</versionUuid>
     <group>
         <name>GMA Application Alert Group</name>
         <securityMap>SECURITYMAP_TEAM</securityMap>
         <uuid>_e-0000e263-9e1d-8000-9aee-01075c01075c_11938</uuid>
         <groupTypeUuid>SYSTEM_GROUP_TYPE_CUSTOM</groupTypeUuid>
-        <description></description>
+        <description/>
         <delegatedCreation>false</delegatedCreation>
         <memberPolicy>MEMBERPOLICY_CLOSED</memberPolicy>
         <viewingPolicy>VIEWINGPOLICY_LOW</viewingPolicy>
@@ -24,4 +23,4 @@
     <history>
         <historyInfo versionUuid="_e-0000e263-9e1d-8000-9aee-01075c01075c_11939"/>
     </history>
-</groupHaul>
+</groupHaul><!--updated on 2019-08-06T16:05:51.797-->
