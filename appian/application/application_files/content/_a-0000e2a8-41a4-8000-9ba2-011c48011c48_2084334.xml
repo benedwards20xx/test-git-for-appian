@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
+<?xml version="1.0" encoding="UTF-8"?><contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
     <versionUuid>_a-0000e2c9-3d0f-8000-9ba2-011c48011c48_2220135</versionUuid>
     <constant>
         <name>GMA_TEST_CONSTANT2</name>
@@ -25,27 +24,27 @@
         <isEnvironmentSpecific>false</isEnvironmentSpecific>
     </constant>
     <roleMap public="true">
-        <role inherit="true" allowForAll="false" name="readers">
+        <role allowForAll="false" inherit="true" name="readers">
             <users/>
             <groups/>
         </role>
-        <role inherit="true" allowForAll="false" name="authors">
+        <role allowForAll="false" inherit="true" name="authors">
             <users/>
             <groups/>
         </role>
-        <role inherit="true" allowForAll="false" name="administrators">
+        <role allowForAll="false" inherit="true" name="administrators">
             <users/>
             <groups/>
         </role>
-        <role inherit="false" allowForAll="false" name="denyReaders">
+        <role allowForAll="false" inherit="false" name="denyReaders">
             <users/>
             <groups/>
         </role>
-        <role inherit="false" allowForAll="false" name="denyAuthors">
+        <role allowForAll="false" inherit="false" name="denyAuthors">
             <users/>
             <groups/>
         </role>
-        <role inherit="false" allowForAll="false" name="denyAdministrators">
+        <role allowForAll="false" inherit="false" name="denyAdministrators">
             <users/>
             <groups/>
         </role>
@@ -61,4 +60,4 @@
         <historyInfo versionUuid="_a-0000e2c9-3d0f-8000-9ba2-011c48011c48_2219808"/>
         <historyInfo versionUuid="_a-0000e2c9-3d0f-8000-9ba2-011c48011c48_2220135"/>
     </history>
-</contentHaul>
+</contentHaul><!--updated on 2019-08-06T15:50:51.046-->
