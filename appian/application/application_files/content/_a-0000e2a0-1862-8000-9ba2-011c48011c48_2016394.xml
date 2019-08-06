@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e2ed-e164-8000-9ba2-011c48011c48_2326006</versionUuid>
+    <versionUuid>_a-0000e2ed-e164-8000-9ba2-011c48011c48_2299117</versionUuid>
     <constant>
         <name>GMA_TEST_CONSTANT</name>
         <uuid>_a-0000e2a0-1862-8000-9ba2-011c48011c48_2016394</uuid>
@@ -19,7 +19,7 @@
                 <name>string</name>
                 <namespace>http://www.w3.org/2001/XMLSchema</namespace>
             </type>
-            <value>Main Update</value>
+            <value>Let's figure out merging</value>
         </typedValue>
         <isEnvironmentSpecific>false</isEnvironmentSpecific>
     </constant>
@@ -66,8 +66,5 @@
         <historyInfo versionUuid="_a-0000e2c9-3d0f-8000-9ba2-011c48011c48_2174015"/>
         <historyInfo versionUuid="_a-0000e2c9-3d0f-8000-9ba2-011c48011c48_2204158"/>
         <historyInfo versionUuid="_a-0000e2ed-e164-8000-9ba2-011c48011c48_2299117"/>
-        <historyInfo versionUuid="_a-0000e2ed-e164-8000-9ba2-011c48011c48_2308871"/>
-        <historyInfo versionUuid="_a-0000e2ed-e164-8000-9ba2-011c48011c48_2309033"/>
-        <historyInfo versionUuid="_a-0000e2ed-e164-8000-9ba2-011c48011c48_2326006"/>
     </history>
-</contentHaul><!--updated on 2019-08-06T16:16:06.820-->
+</contentHaul><!--updated on 2019-08-06T16:16:26.152-->
