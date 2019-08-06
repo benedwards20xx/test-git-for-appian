@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>e6268a9d-2edb-4fea-b09f-25a1633fd1c0</versionUuid>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>bb8f70e4-0bc0-4a5e-8e07-10d51ea94056</versionUuid>
     <application>
         <name>Group Management Accelerator</name>
         <uuid>_a-0000e263-9e1d-8000-9ba2-011c48011c48_1930614</uuid>
@@ -287,5 +288,6 @@
         <historyInfo versionUuid="a86a0b09-ce6d-4004-9730-21053509598d"/>
         <historyInfo versionUuid="146b6d55-ae3d-429a-a20d-192df9af2089"/>
         <historyInfo versionUuid="e6268a9d-2edb-4fea-b09f-25a1633fd1c0"/>
+        <historyInfo versionUuid="bb8f70e4-0bc0-4a5e-8e07-10d51ea94056"/>
     </history>
-</applicationHaul>
+</applicationHaul><!--updated on 2019-08-06T15:51:13.569-->
